@@ -1,0 +1,14 @@
+spotipy
+requests
+bs4
+librosa
+numpy
+torch
+diffusers
+Pillow
+unicodedata
+textblob
+streamlit
+matplotlib
+seaborn
+pandas
