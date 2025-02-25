@@ -40,7 +40,7 @@ The following flowchart illustrates the overall workflow of the system:
 - **Prompt Engineering:** Combines extracted features into a structured prompt.
 - **Stable Diffusion Model:** Transforms textual descriptions into **high-quality album art**.
 
-📌 *Stable Diffusion Model Overview:* ![Stable Diffusion Architecture](Stable_Diffusion_Architecture.jng)
+📌 *Stable Diffusion Model Overview:* ![Stable Diffusion Architecture](Stable_Diffusion_Architecture.jpg)
 
 ## ⚙️ Installation & Setup
 
