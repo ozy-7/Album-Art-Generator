@@ -31,6 +31,7 @@ The following flowchart illustrates the overall workflow of the system:
 - **Interpretation:** Audio features are translated into descriptive text (e.g., "rich harmony").
 
 📌 *Example Spectrogram Visualization:* ![Spectrogram](Spectogram.png)
+Spectogram of song Best of You by Foo Fighters
 
 ### 📝 **Text Processing Pipeline**
 - **Lyrics Sentiment Analysis:** Determines song mood (e.g., uplifting, melancholic).
