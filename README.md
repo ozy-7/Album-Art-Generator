@@ -12,7 +12,7 @@ This project aims to generate **custom album covers** by analyzing **song audio 
 
 ## 📂 Project Workflow
 The following flowchart illustrates the overall workflow of the system:
-📌 *Workflow Representation:* ![Flowchart](path/to/flowchart.png)
+📌 *Workflow Representation:* ![Flowchart](Flowchart.png)
 
 1️⃣ **User uploads a song file** (or enters song metadata).  
 2️⃣ **Audio features are extracted** using `librosa`.  
@@ -30,7 +30,7 @@ The following flowchart illustrates the overall workflow of the system:
 - **Statistical Analysis:** Mean and standard deviation calculations for feature ranking.
 - **Interpretation:** Audio features are translated into descriptive text (e.g., "rich harmony").
 
-📌 *Example Spectrogram Visualization:* ![Spectrogram](path/to/spectrogram1.png)
+📌 *Example Spectrogram Visualization:* ![Spectrogram](Spectrogram.png)
 
 ### 📝 **Text Processing Pipeline**
 - **Lyrics Sentiment Analysis:** Determines song mood (e.g., uplifting, melancholic).
@@ -40,7 +40,7 @@ The following flowchart illustrates the overall workflow of the system:
 - **Prompt Engineering:** Combines extracted features into a structured prompt.
 - **Stable Diffusion Model:** Transforms textual descriptions into **high-quality album art**.
 
-📌 *Stable Diffusion Model Overview:* ![Stable Diffusion Architecture](path/to/stable_diffusion_architecture.png)
+📌 *Stable Diffusion Model Overview:* ![Stable Diffusion Architecture](Stable_Diffusion_Architecture.jng)
 
 ## ⚙️ Installation & Setup
 
@@ -72,7 +72,7 @@ streamlit run album_art_generator.py
 ## 📊 Results & Evaluation
 The system successfully generates **realistic, AI-driven album covers** by fusing **audio, lyrics, and metadata**. Below is an example comparison between **generated album art vs. original album cover**:
 
-📌 *Generated vs. Real Album Cover:* ![Generated Album Art](path/to/generated_vs_real.png)
+📌 *Generated vs. Real Album Cover:* ![Generated Album Art](Generated_Album_Art.png)
 
 ## 🔮 Future Improvements
 - **Enhanced Prompt Engineering**: More advanced text-to-image descriptions.
