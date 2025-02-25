@@ -30,7 +30,7 @@ The following flowchart illustrates the overall workflow of the system:
 - **Statistical Analysis:** Mean and standard deviation calculations for feature ranking.
 - **Interpretation:** Audio features are translated into descriptive text (e.g., "rich harmony").
 
-📌 *Example Spectrogram Visualization:* ![Spectrogram](Spectrogram.png)
+📌 *Example Spectrogram Visualization:* ![Spectrogram](Spectogram.png)
 
 ### 📝 **Text Processing Pipeline**
 - **Lyrics Sentiment Analysis:** Determines song mood (e.g., uplifting, melancholic).
